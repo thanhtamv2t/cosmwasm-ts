@@ -64,7 +64,6 @@
     "url": "git+https://github.com/cosmos-client/cosmwasm-ts.git"
   },
   "main": "./cjs/index.js",
-  "module": "./esm/index.js",
   "exports": {
     ".": {
       "node": "./cjs/index.js",
